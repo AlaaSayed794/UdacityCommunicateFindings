@@ -12,7 +12,14 @@ You are not expected to explore all of the variables in the dataset! Focus your 
 > The main variable of interest was the borrower APR, this is the summary of the findings
 - APR is negatively correlated with both monthly income and loan's amount
 - APR's decrease with loan's amount and income slows down when the number of current loans increase<
-- The 36 months term seems to have the least exceptions for the clients (highest APR)</li>
+- The 36 months term seems to have the least exceptions for the clients (highest APR)
+
+
+## Key Insights
+
+>The term of interest is the borrower's APR, so we chose from the data the variables that should be significant, which are the number of current loans, the loan's term, the monthly income and the loan's amount (there are of course another factors).Firstly we show the APR's distribution, then we show its relation with the loan's amount , the loan's term and the number of loans. monthly income is highly correlated with the loan's amount so I discarded it in the presentation.
+
+
 
 ##Resources 
 - https://dillinger.io/
