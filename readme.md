@@ -21,7 +21,7 @@ You are not expected to explore all of the variables in the dataset! Focus your 
 
 
 
-##Resources 
+## Resources 
 - https://dillinger.io/
 - [Box plot explanation](https://statisticsbyjim.com/basics/graph-groups-boxplots-individual-values/#:~:text=Categorical%20variables%20represent%20groups%20in,I%20show%20in%20this%20post).
 - https://pandas.pydata.org/
